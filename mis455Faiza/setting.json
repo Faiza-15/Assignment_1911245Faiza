@@ -1,0 +1,14 @@
+/**
+     * @file "settings.json"
+     * @desc "This is what my configuration looks like" */
+
+     "git-autoconfig.configList": [
+        {
+             "user.email": "W3Dojo@gmail.com",
+             "user.name": "jD3V"
+         },
+         {
+             "user.email": "AndrewJay.zck@gmail.com",
+             "user.name": "JAYD3V"
+         }
+   ]
